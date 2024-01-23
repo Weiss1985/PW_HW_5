@@ -1,0 +1,2 @@
+Команда: exchange 2 usd, Відповідь: USD rate 2 days ago: 37.4521
+USD rate 1 days ago: 37.5268
